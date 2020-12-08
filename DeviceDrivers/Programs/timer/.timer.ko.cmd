@@ -1,0 +1,1 @@
+cmd_/home/shravani/DeviceDrivers/Programs/timer/timer.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/shravani/DeviceDrivers/Programs/timer/timer.ko /home/shravani/DeviceDrivers/Programs/timer/timer.o /home/shravani/DeviceDrivers/Programs/timer/timer.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/shravani/DeviceDrivers/Programs/HelloWorld/Hello.mod := { echo  /home/shravani/DeviceDrivers/Programs/HelloWorld/Hello.o; echo; } > /home/shravani/DeviceDrivers/Programs/HelloWorld/Hello.mod

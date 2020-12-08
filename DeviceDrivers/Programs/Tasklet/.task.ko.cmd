@@ -1,0 +1,1 @@
+cmd_/home/shravani/DeviceDrivers/Programs/Tasklet/task.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/shravani/DeviceDrivers/Programs/Tasklet/task.ko /home/shravani/DeviceDrivers/Programs/Tasklet/task.o /home/shravani/DeviceDrivers/Programs/Tasklet/task.mod.o;  true

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="9" last-seen="1606585055"/>
+    <application id="gnome-background-panel.desktop" score="0" last-seen="0"/>
+    <application id="shotwell.desktop" score="8" last-seen="1606584935"/>
+    <application id="org.gnome.gedit.desktop" score="1" last-seen="1606585013"/>
+    <application id="org.gnome.Cheese.desktop" score="0" last-seen="1606584837"/>
+    <application id="org.gnome.Terminal.desktop" score="2703" last-seen="1606584825"/>
+    <application id="gnome-control-center.desktop" score="0" last-seen="1606585077"/>
+  </context>
+</application-state>

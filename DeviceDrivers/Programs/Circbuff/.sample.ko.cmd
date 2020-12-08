@@ -1,0 +1,1 @@
+cmd_/home/shravani/DeviceDrivers/Programs/Circbuff/sample.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/shravani/DeviceDrivers/Programs/Circbuff/sample.ko /home/shravani/DeviceDrivers/Programs/Circbuff/sample.o /home/shravani/DeviceDrivers/Programs/Circbuff/sample.mod.o;  true
